@@ -14,10 +14,6 @@ Este projeto é um catálogo online de cursos, desenvolvido para apresentar dife
  
 4. **Acesse o endereço informado pelo terminal** (geralmente http://localhost:8000) e navegue até o arquivo `index.html`.
 
-## Repositório
-
-[CatalogoDeCursos](https://github.com/seu-usuario/seu-repositorio)
-
 ## Tecnologias Utilizadas
 
 - **HTML**
