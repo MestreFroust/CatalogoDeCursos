@@ -16,7 +16,7 @@ Este projeto é um catálogo online de cursos, desenvolvido para apresentar dife
 
 ## Repositório
 
-[crudCatalogoDeCursos](https://github.com/seu-usuario/seu-repositorio)
+[CatalogoDeCursos](https://github.com/seu-usuario/seu-repositorio)
 
 ## Tecnologias Utilizadas
 
